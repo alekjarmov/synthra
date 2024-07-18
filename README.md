@@ -6,16 +6,7 @@ This repository contains both the frontend and the backend of the project in the
 
 ## Documentation
 
-This is a project for the courses `Implementation of free and open source systems` and `Team project`.
-
-See [DOCUMENTATION.md](docs/DOCUMENTATION.md).
-
-Authors:
-
-- Stefan Milev - 206055
-- Alek Jarmov - 206012
-- Ana Marija Atanasovska - 206004
-- Danilo Najkov - 206033
+This is project meant to enable file-hosting and file sharing, to see a more detailed documentation of the project, please refer to the [documentation](docs/DOCUMENTATION.md).
 
 ## Features
 
